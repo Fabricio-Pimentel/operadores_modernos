@@ -24,4 +24,4 @@ console.log('3. Ativo e false -> Status:', status3); // false
 // Exemplo 4: Quando a propriedade ativo e true
 const usuario4 = { nome: 'Pedro', ativo: true };
 const status4 = usuario4?.ativo ?? 'Desconhecido';
-console.log('4. Ativo e true -> Status:', status4); // true
+console.log('4. Ativo e true -> Status:', status4); // true!
